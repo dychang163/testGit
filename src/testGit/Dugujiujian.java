@@ -7,5 +7,6 @@ public class Dugujiujian {
 
 		System.out.println("dev");
 		System.out.println("aa");
+		System.out.println("去掉");
 	}
 }
